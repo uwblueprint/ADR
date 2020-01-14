@@ -10,6 +10,7 @@ Contributors: {List of contributors}
 ## Summary of Project
 
 - Establish context for developers on other teams
+- What is the final product being handed off to the client?
 
 ## Existing Solutions (either in BP or externally)
 
