@@ -13,8 +13,8 @@ practice of Architectural Design Reviews (ADRs) was implemented at Blueprint.
 
 ## Process
 
-ADRs will be performed for every new project that Blueprint takes on.  After
-scoping (and by extension, the Statement of Work) is complete, Project Leads
+ADRs will be performed for every new project that Blueprint takes on.  As soon
+as scoping (and by extension, the Statement of Work) is complete, Project Leads
 and their team should work on creating a design document for their project.  
 This system design work should involve the entire team as it's a valuable
 learning opportunity for both junior and senior developers.  Once created,
