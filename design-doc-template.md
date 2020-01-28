@@ -1,4 +1,4 @@
-# Title
+# Project Name
 
 Contributors: {List of contributors}
 
@@ -16,7 +16,7 @@ Contributors: {List of contributors}
 
 -	Not end-to-end solutions but can we use existing pieces of other projects (e.g. auth)?
 
-## Technical Design (write justification for any non-trivial design decisions)
+## Technical Design (write justification for all non-trivial design decisions)
 
 -	Technology selection (list all alternatives and talk about pros and cons)
 -	Frontend component design
