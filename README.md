@@ -50,4 +50,4 @@ worded as suggestions.
 While the goal of ADRs is to flesh out all the details prior to commencing work, 
 there's a very real possibility that an amendment to the original design is
 required.  Make sure to document these changes by updating the design doc using
-a new PR.  These amendments don't require approval by VPP or another PL.
+a new PR.  These amendments don't require approval by the VPP or another PL.
