@@ -27,6 +27,10 @@ Contributors: {List of contributors}
 -	What scale do we expect?
 -	What’s the plan if you need 10x scale?  100x?
 
+## Cost
+
+- What's the estimated cost of running the solution?  You'll probably have to make a bunch of assumptions but a ballpark number is good enough. Make sure that the client understands this and is okay with the cost.
+
 ## Security/Privacy Considerations
 
 - Are you storing personally identifiable information?
