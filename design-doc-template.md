@@ -29,7 +29,7 @@ Contributors: {List of contributors}
 
 ## Cost
 
-- What's the estimated cost of running the solution?  You'll probably have to make a bunch of assumptions but a ballpark number is good enough. Make sure that the client understands this and is okay with the cost.
+- What's the estimated cost of running the solution per month or per year?  You'll probably have to make a bunch of assumptions but a ballpark number is good enough. Make sure that the client understands this and is okay with the cost.
 
 ## Security/Privacy Considerations
 
